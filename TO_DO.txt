@@ -1,0 +1,5 @@
+2.1 - Main version (RELEASED)
+2.2 - Stats(Total number of money win and the number of wins) (WORKING)
+2.3 - Messages(hud and chat)
+2.4 - Bonus Points for VIPS
+2.5 - Point System with SHOP
