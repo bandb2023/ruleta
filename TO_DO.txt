@@ -1,4 +1,4 @@
 2.1 - Main version (RELEASED)
-2.2 - Messages(hud and chat)(WORKING)
-2.3 - Bonus Points for VIPS
+2.2 - Messages(hud and chat)(RELEASED)
+2.3 - Bonus Points for VIPS(WORKING)
 2.4 - Point System with SHOP
